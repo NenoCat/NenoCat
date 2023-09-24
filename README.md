@@ -8,6 +8,8 @@
 
 [![](https://img.shields.io/badge/个人主页-@猫咪老师-green.svg)](NenoCat.github.io)
 
+[![NenoCat's github stats](https://github-readme-stats.vercel.app/api?username=NenoCat&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **NenoCat/NenoCat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
