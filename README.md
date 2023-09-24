@@ -1,4 +1,4 @@
-### Hi there 👋 My name is NenoCat~
+### Hi👋 I'm 猫咪老师,a novice in AI......
 <!--
 <div align="left"><img height="222px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NenoCat&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff" /></div>
 
