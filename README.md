@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is NenoCat~
 
-<div align="left"><img height="222px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NenoCat&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=blue-green" /></div>
+<div align="left"><img height="222px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NenoCat&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff" /></div>
 
 <!--
 **NenoCat/NenoCat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
